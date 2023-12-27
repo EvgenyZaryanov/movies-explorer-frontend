@@ -11,7 +11,7 @@
 React+Vite, Node.js, MongoDB, Express, HTML, CSS, JavaScript, Api.
 
 IP 158.160.115.22
-URL https://zarmovies.nomoredomainsmonster.ru
+URL https://zarmovies.nomoredomainsrocks.ru
 
 # Ссылка на пул реквест:
 
