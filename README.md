@@ -12,3 +12,7 @@ React+Vite, Node.js, MongoDB, Express, HTML, CSS, JavaScript, Api.
 
 IP 158.160.115.22
 URL https://zarmovies.nomoredomainsrocks.ru
+
+# Ссылка на пул реквест:
+
+https://github.com/EvgenyZaryanov/movies-explorer-frontend/pull/1
